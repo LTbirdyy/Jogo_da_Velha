@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README bem estruturado para o seu código de Jogo da Velha, destacando os pontos que você mencionou:
-
 ---
 
 # Jogo da Velha em Python
