@@ -1,3 +1,4 @@
+
 ---
 
 # Jogo da Velha em Python
@@ -17,6 +18,10 @@ Este é um projeto simples de **Jogo da Velha** (ou **Tic-Tac-Toe**) desenvolvid
 * Verificação de vitória ou empate.
 * Validação das jogadas, impedindo posições já ocupadas.
 
+## 🛠️ Estrutura do Código
+
+O código foi dividido em várias funções para melhorar a **organização** e a **legibilidade**:
+
 ## ✅ Conceitos trabalhados
 
 * Modularização e reutilização de código.
@@ -30,14 +35,14 @@ Este é um projeto simples de **Jogo da Velha** (ou **Tic-Tac-Toe**) desenvolvid
 
 1. Certifique-se de ter o **Python 3.x** instalado na sua máquina.
 2. Clone ou baixe o repositório.
-3. Siga as instruções exibidas na tela para jogar.
+3. No terminal, navegue até o diretório do código.
+4. Siga as instruções exibidas na tela para jogar.
 
 ## 🎯 Melhorias futuras
 
 * Implementar uma versão contra o computador (modo IA).
 * Adicionar interface gráfica usando bibliotecas como Tkinter ou Pygame.
 * Refatorar para aceitar tabuleiros de tamanhos variados (ex.: 4x4, 5x5).
-
 
 Desenvolvido como parte dos meus estudos em **Python** e **lógica de programação**.
 
